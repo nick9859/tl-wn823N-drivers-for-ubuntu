@@ -15,3 +15,5 @@ Hopefully all files needed compiled successfully (still some warnings from gcc t
 `sudo make` <br>
 4) Install using: <br>
 `sudo make install`
+</br>
+P.S. : I am using Ubuntu 16.04 LTS, gcc version 5.4.0
