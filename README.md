@@ -1,5 +1,4 @@
-# tl-wn823N-drivers-for-ubuntu
-TP-LINK tl-wn823N usb adapter - drivers for ubuntu
+# TP-LINK tl-wn823N usb adapter - drivers for ubuntu
 
 Those drivers can be found at the official TP-LINK site: <br>
 http://www.tp-link.com/us/download/TL-WN823N.html#Driver
