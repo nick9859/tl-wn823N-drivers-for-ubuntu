@@ -10,8 +10,8 @@ I edited some parts of the code so that gcc don't produce any errors anymore.
 Hopefully all files needed compiled successfully (still some warnings from gcc though). Installation seems to be successful, too.
 
 ## Steps for installing the drivers: </br>
-1) Download or clone repository <br>
-2) Change directory into the new folder <br>
+1) Clone repository (`git clone `) or download it (https://github.com/nick9859/tl-wn823N-drivers-for-ubuntu/archive/master.zip) and unzip it <br>
+2) Open a terminal into the new directory <br>
 3) Compile using: <br>
 `sudo make` <br>
 4) Install using: <br>
